@@ -1,3 +1,0 @@
-survey_2026,1187,1200
-image_labels,1205,1200
-weather_train,50000,50000
